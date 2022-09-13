@@ -1,0 +1,100 @@
+CYBERSECURITY OVERVIEW: 
+
+-One of the most in demand jobs in IT 
+
+-Risks of having poor cybersecurity 
+
+-How can we improve cybersecurity 
+
+-HIPAA and FERPA 
+
+ 
+
+AWS SECURITY: 
+
+-Customer responsible for their own data (statement may be contested) 
+
+ 
+
+-Company responsible for serverside security and reliability 
+
+ 
+
+AWS SECURITY PRODUCTS: 
+
+ 
+
+-Infrastructure Security 
+
+-Identity and Access Control 
+
+-Inventory and Configuration management 
+
+ 
+
+AWS Security Guidance: 
+
+ 
+
+-Trusted advisor 
+
+-Account teams 
+
+-Enterprise support 
+
+-Partner network 
+
+-Professional services 
+
+-Marketplace 
+
+-Bulletins 
+
+-Security documentation 
+
+AWS COMPLIANCE 
+
+-Rules that AWS must follow continuously. 
+
+-Operating in accredited environments 
+
+  
+
+
+ 
+
+ 
+
+AWS SHARED RESPONSIBILITY MODEL 
+
+MANAGE AWS ACCOUNTS (IAM, GROUPS, ROLES, ETC.) 
+
+-Strategies for using multiple accounts 
+
+-Managing IAM users and groups 
+
+-Managing credentials through AWS 
+
+IAM FEATURES 
+
+ 
+
+-Shared access 
+
+-Granular permissions 
+
+-Secured access to resources 
+
+-Multifactor authentication 
+
+-Identity federation 
+
+-Identity info for assurance 
+
+-Free 
+
+SECURING DATA 
+
+-Data at Rest 
+
+-Data in Transit 
